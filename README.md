@@ -1,1 +1,2 @@
-# freemius-task-php-vue
+# freemius_task
+
